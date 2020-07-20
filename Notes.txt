@@ -1,0 +1,4 @@
+
+weighting scheme used for VSM will be tf*idf
+tf=no of times a term occurs in document
+idf=log(df/ N)
